@@ -139,3 +139,4 @@ Since the assignment left some details unspecified, the following assumptions we
 - **Java version**: 17 (current LTS), since the assignment does not specify a version.
 - **No optional bonus feature was implemented**, per instruction to complete all mandatory requirements first and treat bonus features as optional.
 - **No authentication, database, or frontend** was added, as none of these are part of the assignment's required features.
+
